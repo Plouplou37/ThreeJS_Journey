@@ -1,0 +1,41 @@
+# Node.js files
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.log
+*.log.*
+*.bak
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.swp
+*.tmp
+*.out
+*.pid
+*.pid.lock
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Compiled WebAssembly module
+*.wasm
